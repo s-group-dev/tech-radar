@@ -1,0 +1,27 @@
+.table {
+display: table;
+  margin: 0 5%;
+}
+.table > .row {
+  display: table-row;
+}
+.table > .row > .cell {
+  display: table-cell;
+  width: 50%;
+}
+@media screen and (max-width: 900px) {
+  .table {
+    width: 90%
+  }
+}
+@media screen and (max-width: 650px) {
+  .table {
+    display: block;
+  }
+  .table > .row {
+    display: table;
+  }
+  .table > .row > .cell {
+    display: table-row;
+  }
+}
