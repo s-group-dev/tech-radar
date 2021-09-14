@@ -10,7 +10,7 @@ It is based on [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/) 
 
 > [We’ve seen a rise](https://www.thoughtworks.com/radar) — particularly in the cloud space — of developer-facing tool integration, with the aggregation of tools for artifact repositories, source control, CI/CD pipelines, wikis, and others.
 
-We're no exception. We want to consolidate our tool stacks to promise greater convience for developers to face less strain. Our Tech Radar gathers all technologies used and facilitates discussion around them.
+We're no exception. We want to consolidate our tool stacks to promise greater convenience for developers to face less strain. Our Tech Radar gathers all technologies used and facilitates discussion around them.
 
 We do not - by any means - want to restrict our teams' technology choises but to encourage them to adopt the ones that are most native to us. This increases our maturity, helps to discover anti-patterns and productises our approach. Our Tech Radar sets out the changes in technologies that are interesting in software development — changes that we think our engineering teams should pay attention to and use in their projects.
 
